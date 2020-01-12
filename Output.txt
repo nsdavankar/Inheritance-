@@ -1,0 +1,142 @@
+This program has an Employee class that has a name, ID, phone number, gender,
+age, job title, salary, and date as private data member. The Employee
+class has public members to change the private data members. There are 
+also two inherited classes, Programmer and Architect that can access the 
+public members of Employee and have some private data members such as 
+department number, supervisor name and salary percentage.
+
+Tom Brady           12345          9495551234     40   M    Quarterback         $100000    8/31/2014
+
+Enter employee name: Blake Griffin
+
+Enter employee ID: 12346
+
+Enter employee phone number: 3105555555
+
+Enter employee age: 51
+
+Enter employee job title: Basketball Player
+
+Enter employee salary: 70123
+
+Enter month, date and year
+05
+08
+2015
+
+Blake Griffin       12346          3105555555     51   M    Basketball Player   $70123     5/8/2015
+
+Enter employee name: Oprah Winfrey
+
+Enter employee ID: 98765
+
+Enter employee phone number: 7037031234
+
+Enter employee age: 37
+
+Enter employee gender (M/F): F
+
+Enter employee job title: Talk Show Host
+
+Enter employee salary: 900000
+
+Enter month, date and year
+12
+25
+2014
+
+Oprah Winfrey       98765          7037031234     37   F    Talk Show Host      $900000    12/25/2014
+
+Enter employee name: Jay Leno
+
+Enter employee ID: 77777
+
+Enter employee phone number: 2035556789
+
+Enter employee age: 58
+
+Enter employee gender (M/F): M
+
+Enter employee job title: Comedian
+
+Enter employee salary: 500500
+
+Enter month, date and year
+3
+1
+2005
+
+Jay Leno            77777          2035556789     58   M    Comedian            $500500    3/1/2005
+
+Programmers
+
+Enter employee name: Mary Coder
+
+Enter employee ID: 65432
+
+Enter employee phone number: 3105555555
+
+Enter employee age: 28
+
+Enter employee gender (M/F): F
+
+Enter employee job title: Programmer
+
+Enter employee salary: 770123
+
+Enter month, date and year
+2
+8
+2010
+
+Enter Department: 6453222
+
+Enter Supervisors Name: Mary Leader
+
+Enter Raise %: 7
+
+C++ Knowledge: Yes
+
+Java KnowledgeYes
+
+Programmers
+Sam Software        54321          8191234567     21   M    Programmer          $223000    12/24/2011
+Mary Coder          65432          3105555555     28   F    Programmer          $770123    2/8/2010
+Sam Software        5432122        Joe Boss       4    Yes      No
+Mary Coder          6453222        Mary Leader    7    Yes      Yes
+
+Software Architechs
+
+Enter employee name: Sally Desgner
+
+Enter employee ID: 87878
+
+Enter employee phone number: 3105555555
+
+Enter employee age: 38
+
+Enter employee gender (M/F): F
+
+Enter employee job title: Architech
+
+Enter employee salary: 870123
+
+Enter month, date and year
+2
+8
+2003
+
+Enter Department: 6543422
+
+Enter Supervisors Name: Big Boss
+
+Enter Raise %: 8
+
+Enter Years of experience: 11
+
+Software Architechs
+Alex Arch           88888          8191234444     31   M    Architech           $323000    12/24/2009
+Sally Desgner       87878          3105555555     38   F    Architech           $870123    2/8/2003
+Alex Arch           1434222        Big Boss       5    4
+Sally Desgner       6543422        Big Boss       8    11
+Press any key to continue . . .
